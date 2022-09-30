@@ -1,5 +1,4 @@
-## Hi 👋, I'm Edinson Madrid a Full Stack Developer Jr   
-  
+ 
 ![This is an image](./Presentacion%20Github.gif)
 <div align="center">
 <a href="https://github.com/edinsondevs" target="_blank">
