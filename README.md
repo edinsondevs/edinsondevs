@@ -11,7 +11,7 @@
   
 
 
-### Glad to see you here!  
+### Me alegro de verte aquí.  
 Soy Ingeniero de Sistemas y FullStack Developer, con experiencia trabajando en NodeJS, Sequelize, Express, PostgreSQL, MySQL, React, Redux, entre otras tecnologías. 
 
 Mi objetivo profesional es adquirir los conocimientos necesarios para desarrollar las tareas que se me asignen en caso de no conocerlas, desempeñándome con responsabilidad, desarrollando al máximo mi capacidad natural de trato con las personas.
@@ -23,7 +23,7 @@ Creo que en el conocimiento está el poder y por eso estoy dispuesta a nuevas pr
 <br/>  
 
 
-## Projects  
+## Proyectos  
 <table><tr><td valign="top" width="50%">
 
 - Quiero conseguir su primer trabajo a distancia y poder demostrar las habilidades adquiridas añadiendo mi experiencia previa en el área de informática 🚀  
@@ -50,7 +50,7 @@ Creo que en el conocimiento está el poder y por eso estoy dispuesta a nuevas pr
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"  /></a>  
@@ -70,7 +70,7 @@ Creo que en el conocimiento está el poder y por eso estoy dispuesta a nuevas pr
 <br/>  
 
 
-## Github Stats  
+## Estadísticas de Github 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=edinsondevs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
