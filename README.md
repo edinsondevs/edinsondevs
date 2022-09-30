@@ -23,7 +23,7 @@ I believe that in knowledge lies the power and that is why I am willing to new p
 <br/>  
 
 
-## Rapidfire  
+## Projects  
 <table><tr><td valign="top" width="50%">
 
 - I want to get his first remote job and be able to demonstrate the skills acquired by adding my previous experience in the IT area 🚀  
