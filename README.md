@@ -1,5 +1,5 @@
  
-![This is an image](./Presentacion%20Github%20Ingles.gif)
+![This is an image](./Presentacion%20Github.gif)
 <div align="center">
 <a href="https://github.com/edinsondevs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -12,11 +12,11 @@
 
 
 ### Glad to see you here!  
-I am a Systems Engineer and FullStack Developer, with experience working on NodeJS, Sequelize, Express, PostgreSQL, MySQL, React, Redux, among other technologies. 
+Soy Ingeniero de Sistemas y FullStack Developer, con experiencia trabajando en NodeJS, Sequelize, Express, PostgreSQL, MySQL, React, Redux, entre otras tecnologías. 
 
-My professional goal is to acquire the necessary knowledge to develop the tasks assigned to me in case I do not know them, performing with responsibility, developing to the maximum my natural ability to deal with people.
+Mi objetivo profesional es adquirir los conocimientos necesarios para desarrollar las tareas que se me asignen en caso de no conocerlas, desempeñándome con responsabilidad, desarrollando al máximo mi capacidad natural de trato con las personas.
 
-I believe that in knowledge lies the power and that is why I am willing to new proposals where I can be part of projects that require innovation and creativity. 
+Creo que en el conocimiento está el poder y por eso estoy dispuesta a nuevas propuestas donde pueda formar parte de proyectos que requieran innovación y creatividad. 
   
   
 
@@ -26,16 +26,16 @@ I believe that in knowledge lies the power and that is why I am willing to new p
 ## Projects  
 <table><tr><td valign="top" width="50%">
 
-- I want to get his first remote job and be able to demonstrate the skills acquired by adding my previous experience in the IT area 🚀  
+- Quiero conseguir su primer trabajo a distancia y poder demostrar las habilidades adquiridas añadiendo mi experiencia previa en el área de informática 🚀  
   
 
-- 👥 I worked on the project as a contributor [Site tuSpacio](https://tuspacio.vercel.app/)  
+- 👥 He trabajado en el proyecto como colaborador [Site tuSpacio](https://tuspacio.vercel.app/)  
   
 
-- 💻 I made a Pokemon app [Repository Github](https://github.com/edinsondevs/Pokemon)  
+- 💻 Hice una aplicación de Pokemon [Repository Github](https://github.com/edinsondevs/Pokemon)  
   
 
-- 💻 I made a Food Main app [Repository Github](https://github.com/edinsondevs/AplicacionRecetas)  
+- 💻 Hice una aplicación de Pokemon Food Main [Repository Github](https://github.com/edinsondevs/AplicacionRecetas)  
 
 
 </td><td valign="top" width="50%">
