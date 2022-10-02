@@ -47,7 +47,7 @@ Cuento con una experiencia de 10 años trabajando en el area TECH como analista 
 - 💻 Hice una aplicación de Pokemon [Repository Github](https://github.com/edinsondevs/Pokemon)  
   
 
-- 💻 Hice una aplicación de Pokemon Food Main [Repository Github](https://github.com/edinsondevs/AplicacionRecetas)  
+- 💻 Hice una aplicación de Recetas de Comidas [Repository Github](https://github.com/edinsondevs/AplicacionRecetas)  
 
 
 </td><td valign="top" width="50%">
