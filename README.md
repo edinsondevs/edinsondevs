@@ -1,3 +1,4 @@
+
  
 ![This is an image](./Presentacion%20Github.gif)
 <div align="center">
@@ -12,12 +13,23 @@
 
 
 ### Me alegro de verte aquí.  
+<!-- 
 Soy Ingeniero de Sistemas y FullStack Developer, con experiencia trabajando en NodeJS, Sequelize, Express, PostgreSQL, MySQL, React, Redux, entre otras tecnologías. 
 
 Mi objetivo profesional es adquirir los conocimientos necesarios para desarrollar las tareas que se me asignen en caso de no conocerlas, desempeñándome con responsabilidad, desarrollando al máximo mi capacidad natural de trato con las personas.
 
 Creo que en el conocimiento está el poder y por eso estoy dispuesta a nuevas propuestas donde pueda formar parte de proyectos que requieran innovación y creatividad. 
-  
+-->
+
+Soy 🎓 Ingeniero de Sistemas 🎓 y 🖥️ FullStack Developer 🖥️con conocimientos en el FrontEnd usando las tecnologias Javascript, HTML, CSS, React, Redux y en el BackEnd usando las tecnologias NodeJS, Express, Sequelize, PostgreSQL, MySQL . Las aplicaciones web que he desarrollado son Pokemons Api, Food Recipes y un E-commerce "TuSpacio".
+
+Trabaje en equipo para realizar el E-Commerce, donde trabaje en el BackEnd realizando el esquema, creando los modelos de la base de datos en postgresql y rutas para realizar los CRUD correspondientes del E-Commerce de productos, usuarios, categorias, ordenes, entre otras funcionalidades. Es este proyecto también se implementó la integración con pasalera de pago, envío automático de mails, chatbot y chat de whatsapp.
+
+Mi objetivo profesional es adquirir los conocimientos necesarios para desarrollar las tareas que se me asignen en caso de no conocerlas, desempeñándome con responsabilidad y desarrollando al máximo mi capacidad natural de trato con las personas.
+
+Busco trabajar en una empresa que me permita demostrar todos mis conocimientos y capacidades como Full Stack Developer, desarrollar mis habilidades y agregar mas valor con mi experiencia como Funcional.
+
+Cuento con una experiencia de 10 años trabajando en el area TECH como analista funcional, utilizando bases de datos relacionales como Oracle, SyBase, MySQL, PostgreSQL y en los ultimos 4 años he venido utilizando la metodologías ágiles como SCRUM, trabajo en equipo, gestión de proyectos en Azure Devops, por lo cual considero que tengo una gran plus que aportar para desempeñarme como desarrollador web.
   
 
 <br/>  
@@ -51,23 +63,75 @@ Creo que en el conocimiento está el poder y por eso estoy dispuesta a nuevas pr
 
 
 ## Lenguajes y Herramientas
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"  /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>  
+<table align="center">
+        <thead>
+                <tr>
+                        <th>FrontEnd</th>
+                        <th>BackEnd</th>
+                </tr>
+        </thead>
+        <tbody>
+                <tr>
+                        <td align="center" width="50%">
+                                <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+                                                alt="CSS3" height="50" /></a>
+                                <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
+                                                alt="HTML5" height="50" /></a>
+                                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+                                                alt="JavaScript" height="50" /></a>
+                                <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
+                                                alt="React" height="50" /></a>
+                                <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"
+                                                alt="Redux" height="50" /></a>
+                                <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img
+                                                style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
+                                                alt="Bootstrap" height="50" /></a>
+                        </td>
+                        <td align="center" width="50%">
+                                <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"
+                                                alt="PostgreSQL" height="50" /></a>
+                                <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"
+                                                alt="MySQL" height="50" /></a>
+                                <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/xampp.png"
+                                                alt="XAMPP" height="50" /></a>
+                        </td>
+                </tr>
+                <thead>
+                        <tr>
+                                <th>Base de Datos</th>
+                                <th>Gestión</th>
+                        </tr>
+                </thead>
+                <tr>
+                        <td align="center" width="50%">
+                                <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
+                                                alt="Express.js" height="50" /></a>
+                                <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
+                                                alt="Node.js" height="50" /></a>
+                        </td>
+                        <td align="center" width="50%">
+                                <a href="https://github.com/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
+                                                alt="Git" height="50" /></a>
+                                <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px"
+                                                src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg"
+                                                alt="Azure" height="50" /></a>
+                        </td>
+                </tr>
+        </tbody>
+</table>
 
-<br/>  
 
 
 ## Estadísticas de Github 
