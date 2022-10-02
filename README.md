@@ -147,7 +147,6 @@ Cuento con una experiencia de 10 años trabajando en el area TECH como analista 
 
 <br/>  
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edinsondevs" alt="edinsondevs" /></a> </p>
 
 <br/>  
 
