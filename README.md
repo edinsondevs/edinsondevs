@@ -21,7 +21,7 @@ Mi objetivo profesional es adquirir los conocimientos necesarios para desarrolla
 Creo que en el conocimiento está el poder y por eso estoy dispuesta a nuevas propuestas donde pueda formar parte de proyectos que requieran innovación y creatividad. 
 -->
 
-Soy 🎓 Ingeniero de Sistemas 🎓 y 🖥️ FullStack Developer 🖥️con conocimientos en el FrontEnd usando las tecnologias Javascript, HTML, CSS, React, Redux y en el BackEnd usando las tecnologias NodeJS, Express, Sequelize, PostgreSQL, MySQL . Las aplicaciones web que he desarrollado son Pokemons Api, Food Recipes y un E-commerce "TuSpacio".
+Soy  🎓 Ingeniero de Sistemas 🎓 y 🖥️ FullStack Developer 🖥️con conocimientos en el FrontEnd usando las tecnologias Javascript, HTML, CSS, React, Redux y en el BackEnd usando las tecnologias NodeJS, Express, Sequelize, PostgreSQL, MySQL . Las aplicaciones web que he desarrollado son Pokemons Api, Food Recipes y un E-commerce "TuSpacio".
 
 Trabaje en equipo para realizar el E-Commerce, donde trabaje en el BackEnd realizando el esquema, creando los modelos de la base de datos en postgresql y rutas para realizar los CRUD correspondientes del E-Commerce de productos, usuarios, categorias, ordenes, entre otras funcionalidades. Es este proyecto también se implementó la integración con pasalera de pago, envío automático de mails, chatbot y chat de whatsapp.
 
