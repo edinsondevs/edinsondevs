@@ -38,7 +38,7 @@ Cuento con una experiencia de 10 años trabajando en el area TECH como analista 
 ## Proyectos  
 <table><tr><td valign="top" width="50%">
 
-- Quiero conseguir su primer trabajo a distancia y poder demostrar las habilidades adquiridas añadiendo mi experiencia previa en el área de informática 🚀  
+- Quiero conseguir mi primer trabajo a distancia y poder demostrar las habilidades adquiridas añadiendo mi experiencia previa en el área de informática 🚀  
   
 
 - 👥 He trabajado en el proyecto como colaborador [Site tuSpacio](https://tuspacio.vercel.app/)  
