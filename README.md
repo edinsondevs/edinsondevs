@@ -44,7 +44,7 @@ Cuento con una experiencia de 10 años trabajando en el area TECH como analista 
 - 👥 He trabajado en el proyecto como colaborador [Site tuSpacio](https://tuspacio.vercel.app/)  
   
 
-- 💻 Hice una aplicación de Pokemon [Repository Github](https://github.com/edinsondevs/Pokemon)  
+- 💻 Hice una aplicación de Pokemon [Deploy](https://app-poke.vercel.app/)  
   
 
 - 💻 Hice una aplicación de Recetas de Comidas [Repository Github](https://github.com/edinsondevs/AplicacionRecetas)  
