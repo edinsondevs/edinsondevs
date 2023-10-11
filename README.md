@@ -53,7 +53,8 @@ Cuento con una experiencia de 10 años trabajando en el area TECH como analista 
 - 💻 LandingPage Demo de una app de Adopción de Mascotas [Deploy Firebase]([deploy](my-app-adoptions-pets.web.app) 
 
 
-</td><td valign="top" width="50%">
+</td>
+<!-- <td valign="top" width="50%"> -->
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
