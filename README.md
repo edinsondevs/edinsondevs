@@ -50,7 +50,7 @@ Cuento con una experiencia de 10 años trabajando en el area TECH como analista 
 - 💻 Aplicación de Recetas de Comidas [Repository Github](https://github.com/edinsondevs/AplicacionRecetas)
   
 
-- 💻 LandingPage Demo de una app de Adopción de Mascotas [Deploy Firebase](my-app-adoptions-pets.web.app) 
+- 💻 LandingPage Demo de una app de Adopción de Mascotas [Deploy Firebase](https://my-app-adoptions-pets.web.app/)
 
 
 </td>
