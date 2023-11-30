@@ -21,7 +21,7 @@ Mi objetivo profesional es adquirir los conocimientos necesarios para desarrolla
 Creo que en el conocimiento está el poder y por eso estoy dispuesta a nuevas propuestas donde pueda formar parte de proyectos que requieran innovación y creatividad. 
 -->
 
-Soy  🎓 Ingeniero de Sistemas 🎓 y 🖥️ FullStack Developer 🖥️con conocimientos en el FrontEnd usando las tecnologias Javascript, HTML, CSS, React, Redux y en el BackEnd usando las tecnologias NodeJS, Express, Sequelize, PostgreSQL, MySQL . Las aplicaciones web que he desarrollado son Pokemons Api, Food Recipes y un E-commerce "TuSpacio".
+Soy  🎓 Ingeniero de Sistemas 🎓 y 🖥️ FullStack Developer 🖥️con conocimientos en el FrontEnd usando las tecnologias Javascript, Typescript, HTML, CSS, Material UI, React, Redux, VueJS y en el BackEnd usando las tecnologias NodeJS, Express, REST API, Sequelize, PostgreSQL, Firebase, MySQL.
 
 Trabaje en equipo para realizar el E-Commerce, donde trabaje en el BackEnd realizando el esquema, creando los modelos de la base de datos en postgresql y rutas para realizar los CRUD correspondientes del E-Commerce de productos, usuarios, categorias, ordenes, entre otras funcionalidades. Es este proyecto también se implementó la integración con pasalera de pago, envío automático de mails, chatbot y chat de whatsapp.
 
@@ -29,8 +29,7 @@ Mi objetivo profesional es adquirir los conocimientos necesarios para desarrolla
 
 Busco trabajar en una empresa que me permita demostrar todos mis conocimientos y capacidades como Full Stack Developer, desarrollar mis habilidades y agregar mas valor con mi experiencia como Funcional.
 
-Cuento con una experiencia de 10 años trabajando en el area TECH como analista funcional, utilizando bases de datos relacionales como Oracle, SyBase, MySQL, PostgreSQL y en los ultimos 4 años he venido utilizando la metodologías ágiles como SCRUM, trabajo en equipo, gestión de proyectos en Azure Devops, por lo cual considero que tengo una gran plus que aportar para desempeñarme como desarrollador web.
-  
+Cuento con una experiencia de mas de 10 años trabajando en el area TECH como analista funcional, utilizando bases de datos relacionales como Oracle, SyBase, MySQL, PostgreSQL y en los ultimos 4 años he venido utilizando la metodologías ágiles como SCRUM, trabajo en equipo, gestión de proyectos en Azure Devops, integracion continua, realización de testing al codigo desarrollado, modernizacion de aplicaciones.
 
 <br/>  
 
