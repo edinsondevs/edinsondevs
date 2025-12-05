@@ -30,6 +30,7 @@ Busco trabajar en una empresa que me permita demostrar todos mis conocimientos y
 
 Cuento con una experiencia de mas de 10 años trabajando en el area TECH como analista funcional, utilizando bases de datos relacionales como Oracle, SyBase, MySQL, PostgreSQL y en los ultimos 4 años he venido utilizando la metodologías ágiles como SCRUM, trabajo en equipo, gestión de proyectos en Azure Devops, integracion continua, realización de testing al codigo desarrollado, modernizacion de aplicaciones.
 
+[Visita mi web](https://www.edinsondigital.com/)
 <br/>  
 
 
@@ -42,7 +43,10 @@ Cuento con una experiencia de mas de 10 años trabajando en el area TECH como an
 - 👥 He trabajado en el proyecto como colaborador [Site tuSpacio](https://tuspacio.vercel.app/)  
   
 
-- 💻 LandingPage de Pokemon [Deploy](https://app-poke.vercel.app/)  
+- 💻 LandingPage Profesional de una Freelancer Asistente Virtual [WEB](https://jenni-virtual-assistant.vercel.app/)
+
+
+- 💻 LandingPage para un SPA [WEB](https://www.isabellaspa.edinsondigital.com/)
   
 
 - 💻 Aplicación de Recetas de Comidas [Repository Github](https://github.com/edinsondevs/AplicacionRecetas)
