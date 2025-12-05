@@ -30,7 +30,7 @@ Busco trabajar en una empresa que me permita demostrar todos mis conocimientos y
 
 Cuento con una experiencia de mas de 10 años trabajando en el area TECH como analista funcional, utilizando bases de datos relacionales como Oracle, SyBase, MySQL, PostgreSQL y en los ultimos 4 años he venido utilizando la metodologías ágiles como SCRUM, trabajo en equipo, gestión de proyectos en Azure Devops, integracion continua, realización de testing al codigo desarrollado, modernizacion de aplicaciones.
 
-[Visita mi web](https://www.edinsondigital.com/)
+[Visita mi web](https://portafolio.edinsondigital.com/)
 <br/>  
 
 
@@ -53,6 +53,10 @@ Cuento con una experiencia de mas de 10 años trabajando en el area TECH como an
   
 
 - 💻 LandingPage Demo de una app de Adopción de Mascotas [Deploy Firebase](https://my-app-adoptions-pets.web.app/)
+
+- ⚙️API CRUD creado en Next.js y API Routes [API CRUD](https://api-crud.edinsondigital.com/docs)
+
+- ⚙️API de Autenticación con Next.js [API LOGIN](https://api-login.edinsondigital.com/docs)
 
 
 </td>
