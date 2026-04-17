@@ -60,7 +60,7 @@ Aplicación web para gestión de gastos personales.
 - Arquitectura escalable  
 - Deploy en Vercel  
 
-🔗 Demo: https://portafolio.edinsondigital.com/  
+🔗 Web: https://portafolio.edinsondigital.com/  
 💻 Código: https://github.com/edinsondevs  
 
 ---
@@ -77,7 +77,7 @@ API RESTful de alto rendimiento para gestión de inventario y autenticación, di
 - 📄 Documentación Swagger/OpenAPI
 - 🧱 Arquitectura limpia (services, routes, schemas)
 
-👉 Ideal para entornos productivos y escalables  
+👉 Deploy: https://api-ecommerce.edinsondigital.com/docs  
 💻 Código: https://github.com/edinsondevs/ecommerce-backend-api
 
 ---
@@ -91,7 +91,7 @@ API completa de autenticación y gestión de usuarios desarrollada con Next.js.
 - 📦 Integración con base de datos
 - 📄 Documentación interactiva con Swagger
 
-👉 Docs: https://api-login.edinsondigital.com/docs  
+👉 Deploy: https://api-login.edinsondigital.com/docs  
 💻 Código: https://github.com/edinsondevs/api-login-register-nextjs
 
 ---
@@ -106,7 +106,7 @@ Plantilla backend robusta para creación de APIs RESTful.
 - 🧱 Arquitectura limpia y escalable
 - 🍃 Integración con MongoDB (Mongoose)
 
-👉 Docs: https://api-crud.edinsondigital.com/docs  
+👉 Deploy: https://api-crud.edinsondigital.com/docs  
 💻 Código: https://github.com/edinsondevs/next-api-rest-full
 
 ---
