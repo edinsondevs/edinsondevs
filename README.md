@@ -61,7 +61,7 @@ Aplicación Mobile en React Native con Expo para gestión de gastos personales.
 - Supabase como base de datos
 - La uso de forma personal descargando .apk en mi dispositivo
 
-💻 Código: https://github.com/edinsondevs/react-native-finance-app   
+💻 Código: [Github](https://github.com/edinsondevs/react-native-finance-app   )
 
 ---
 
@@ -77,8 +77,8 @@ API RESTful de alto rendimiento para gestión de inventario y autenticación, di
 - 📄 Documentación Swagger/OpenAPI
 - 🧱 Arquitectura limpia (services, routes, schemas)
 
+💻 Código: [Github](https://github.com/edinsondevs/ecommerce-backend-api)
 👉 Deploy: https://api-ecommerce.edinsondigital.com/docs  
-💻 Código: https://github.com/edinsondevs/ecommerce-backend-api  
 
 <img src="./assets/images/API_Inventario_E-Commerce.png" width="1200"/>
 ---
@@ -92,8 +92,8 @@ API completa de autenticación y gestión de usuarios desarrollada con Next.js.
 - 📦 Integración con base de datos
 - 📄 Documentación interactiva con Swagger
 
+💻 Código: [Github](https://github.com/edinsondevs/api-login-register-nextjs)
 👉 Deploy: https://api-login.edinsondigital.com/docs  
-💻 Código: https://github.com/edinsondevs/api-login-register-nextjs
 
 <img src="./assets/images/API_Autenticación_Next.js.png" width="1200"/>
 
@@ -109,8 +109,8 @@ Plantilla backend robusta para creación de APIs RESTful.
 - 🧱 Arquitectura limpia y escalable
 - 🍃 Integración con MongoDB (Mongoose)
 
+💻 Código: [Github](https://github.com/edinsondevs/next-api-rest-full)
 👉 Deploy: https://api-crud.edinsondigital.com/docs  
-💻 Código: https://github.com/edinsondevs/next-api-rest-full
 
 <img src="./assets/images/CRUD_Next_API_Routes.png" width="1200"/>
 
@@ -129,8 +129,8 @@ Landing Page premium para barbería profesional con sistema de reserva de turnos
 - 📩 WhatsApp Integration (conversión directa) 
 - 🏗️ Arquitectura Modular (componentes desacoplados y configurables)
 
+💻 Código: [Github](https://github.com/edinsondevs/barbershop-el-maestro)
 👉 Deploy: https://barberia-el-maestro.edinsondigital.com  
-💻 Código: https://github.com/edinsondevs/barbershop-el-maestro
 
 <img src="./assets/images/SPA_Barberia.png" width="1200"/>
 
@@ -167,7 +167,7 @@ Frontend enfocado en construcción de aplicaciones modernas, escalables y orient
 
 <h3 align="center">🧪 Testing</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=jest" />
+<img src="https://skillicons.dev/icons?i=jest,vitest" />
 </p>
 
 <br/>
@@ -181,24 +181,24 @@ Frontend enfocado en construcción de aplicaciones modernas, escalables y orient
 
 <h3 align="center"> 🗄️ Base de datos  </h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb" />
 </p>
 
 <br/>
 
 <h3 align="center"> 🧰 Herramientas  </h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,azure,vercel" />
+<img src="https://skillicons.dev/icons?i=git,azure,vercel,postman,vscode" />
 </p>
 
 ---
 
 ## 📫 Contacto  
 
-🌐 Portfolio: https://portafolio.edinsondigital.com/  
-💼 LinkedIn: https://linkedin.com/in/ingedinsonmadrid  
+🌐 [Portfolio](https://portafolio.edinsondigital.com/)  
+💼 [LinkedIn](https://linkedin.com/in/ingedinsonmadrid)  
 
-📩 Abierto a oportunidades como Frontend Developer (React / Next.js)  
+<p>📩 Abierto a oportunidades como <strong>Frontend Developer (React / Next.js)</strong> </p> 
 
 ---
 
