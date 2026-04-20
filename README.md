@@ -116,6 +116,26 @@ Plantilla backend robusta para creación de APIs RESTful.
 
 ---
 
+### 💈 Barbería El Maestro (Landing Page & Booking System)
+
+Landing Page premium para barbería profesional con sistema de reserva de turnos en tiempo real integrado directamente con Google Calendar API.
+
+- ⚡ Next.js 15+ (App Router) 
+- 🔷 TypeScript (tipado estricto) 
+- 🎨 Tailwind CSS 4 (estilos de última generación) 
+- 📅 Google Calendar API (gestión de turnos dinámica) 
+- ✨ Lucide React (iconografía minimalista) 
+- 📱 Diseño Responsive (Mobile First & Premium UI) 
+- 📩 WhatsApp Integration (conversión directa) 
+- 🏗️ Arquitectura Modular (componentes desacoplados y configurables)
+
+👉 Deploy: https://barberia-el-maestro.edinsondigital.com  
+💻 Código: https://github.com/edinsondevs/barbershop-el-maestro
+
+<img src="./assets/images/SPA_Barberia.png" width="1200"/>
+
+---
+
 ### 🌐 Landing Pages Profesionales  
 
 - 💻 https://jenni-virtual-assistant.vercel.app/  
