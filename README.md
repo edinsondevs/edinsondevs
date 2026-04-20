@@ -52,16 +52,16 @@ He trabajado en entornos productivos desarrollando funcionalidades, corrigiendo 
 ## 🚀 Proyectos Destacados  
 
 ### 🧾 App de Finanzas Personales  
-Aplicación web para gestión de gastos personales.
+Aplicación Mobile en React Native con Expo para gestión de gastos personales.
 
 - CRUD de transacciones  
 - Manejo de estado  
 - Integración con API REST  
 - Arquitectura escalable  
-- Deploy en Vercel  
+- Supabase como base de datos
+- La uso de forma personal descargando .apk en mi dispositivo
 
-🔗 Web: https://portafolio.edinsondigital.com/  
-💻 Código: https://github.com/edinsondevs  
+💻 Código: https://github.com/edinsondevs/react-native-finance-app   
 
 ---
 
