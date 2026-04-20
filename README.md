@@ -78,8 +78,9 @@ API RESTful de alto rendimiento para gestión de inventario y autenticación, di
 - 🧱 Arquitectura limpia (services, routes, schemas)
 
 👉 Deploy: https://api-ecommerce.edinsondigital.com/docs  
-💻 Código: https://github.com/edinsondevs/ecommerce-backend-api
+💻 Código: https://github.com/edinsondevs/ecommerce-backend-api  
 
+<img src="./assets/images/API_Inventario_E-Commerce.png" width="1200"/>
 ---
 
 ### 🔐 API REST con Next.js (Auth + JWT)
@@ -93,6 +94,8 @@ API completa de autenticación y gestión de usuarios desarrollada con Next.js.
 
 👉 Deploy: https://api-login.edinsondigital.com/docs  
 💻 Código: https://github.com/edinsondevs/api-login-register-nextjs
+
+<img src="./assets/images/API_Autenticación_Next.js.png" width="1200"/>
 
 ---
 
@@ -108,6 +111,8 @@ Plantilla backend robusta para creación de APIs RESTful.
 
 👉 Deploy: https://api-crud.edinsondigital.com/docs  
 💻 Código: https://github.com/edinsondevs/next-api-rest-full
+
+<img src="./assets/images/CRUD_Next_API_Routes.png" width="1200"/>
 
 ---
 
