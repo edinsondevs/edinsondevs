@@ -132,15 +132,28 @@ Landing Page premium para barbería profesional con sistema de reserva de turnos
 💻 Código: [Github](https://github.com/edinsondevs/barbershop-el-maestro)
 👉 Deploy: https://barberia-el-maestro.edinsondigital.com  
 
-<img src="./assets/images/SPA_Barberia.png" width="1200"/>
+<img src="./assets/images/SPA_Barberia.png" alt='barberia' width="1200"/>
 
 ---
 
 ### 🌐 Landing Pages Profesionales  
+<br>
 
+##### 1. SPA - Salón de belleza
+- 💻 https://www.isabellaspa.edinsondigital.com/
+
+<img src="./assets/images/SPA_Isabella_spa.png" alt='salon belleza' width=1200 />
+
+
+<br>
+
+##### 2. SPA - Asistente Virtual
 - 💻 https://jenni-virtual-assistant.vercel.app/  
-- 💻 https://www.isabellaspa.edinsondigital.com/  
-- 💻 https://my-app-adoptions-pets.web.app/  
+
+<img src="./assets/images/SPA_jenni_mora.png" alt='asistente virtual' width=1200  />
+
+
+<!-- - 💻 https://my-app-adoptions-pets.web.app/   -->
 
 ---
 
