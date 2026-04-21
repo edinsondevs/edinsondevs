@@ -77,7 +77,7 @@ API RESTful de alto rendimiento para gestión de inventario y autenticación, di
 - 📄 Documentación Swagger/OpenAPI
 - 🧱 Arquitectura limpia (services, routes, schemas)
 
-💻 Código: [Github](https://github.com/edinsondevs/ecommerce-backend-api)
+💻 Código: [Github](https://github.com/edinsondevs/ecommerce-backend-api)   
 👉 Deploy: https://api-ecommerce.edinsondigital.com/docs  
 
 <img src="./assets/images/API_Inventario_E-Commerce.png" width="1200"/>
@@ -92,7 +92,7 @@ API completa de autenticación y gestión de usuarios desarrollada con Next.js.
 - 📦 Integración con base de datos
 - 📄 Documentación interactiva con Swagger
 
-💻 Código: [Github](https://github.com/edinsondevs/api-login-register-nextjs)
+💻 Código: [Github](https://github.com/edinsondevs/api-login-register-nextjs)   
 👉 Deploy: https://api-login.edinsondigital.com/docs  
 
 <img src="./assets/images/API_Autenticación_Next.js.png" width="1200"/>
@@ -109,7 +109,7 @@ Plantilla backend robusta para creación de APIs RESTful.
 - 🧱 Arquitectura limpia y escalable
 - 🍃 Integración con MongoDB (Mongoose)
 
-💻 Código: [Github](https://github.com/edinsondevs/next-api-rest-full)
+💻 Código: [Github](https://github.com/edinsondevs/next-api-rest-full)   
 👉 Deploy: https://api-crud.edinsondigital.com/docs  
 
 <img src="./assets/images/CRUD_Next_API_Routes.png" width="1200"/>
@@ -129,7 +129,7 @@ Landing Page premium para barbería profesional con sistema de reserva de turnos
 - 📩 WhatsApp Integration (conversión directa) 
 - 🏗️ Arquitectura Modular (componentes desacoplados y configurables)
 
-💻 Código: [Github](https://github.com/edinsondevs/barbershop-el-maestro)
+💻 Código: [Github](https://github.com/edinsondevs/barbershop-el-maestro)   
 👉 Deploy: https://barberia-el-maestro.edinsondigital.com  
 
 <img src="./assets/images/SPA_Barberia.png" alt='barberia' width="1200"/>
